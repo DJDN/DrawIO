@@ -67,6 +67,15 @@
         <mxCell id="R3z9QuPG9tQTQMgL8lyn-62" edge="1" parent="1" source="R3z9QuPG9tQTQMgL8lyn-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="R3z9QuPG9tQTQMgL8lyn-60">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="lN5bfOlgKet4OxSslyQI-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font&gt;Z&lt;sub&gt;ground&lt;/sub&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="10" width="50" x="174" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="lN5bfOlgKet4OxSslyQI-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="接地点A&lt;br&gt;(机箱某处)" vertex="1">
+          <mxGeometry height="10" width="65" x="77.5" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="lN5bfOlgKet4OxSslyQI-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="接地点B&lt;br&gt;(机箱另一处)" vertex="1">
+          <mxGeometry height="10" width="77.5" x="242.5" y="210" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
