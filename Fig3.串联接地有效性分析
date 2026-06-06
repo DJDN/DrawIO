@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="S_95sdlplf2zTk_VzfC1">
-    <mxGraphModel dx="572" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="686" dy="417" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="TZWljh7xIJPL9hUizzoA-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F9E4E1;strokeColor=none;" value="" vertex="1">
-          <mxGeometry height="180" width="520" x="30" y="80" as="geometry" />
+          <mxGeometry height="170" width="520" x="30" y="80" as="geometry" />
         </mxCell>
         <mxCell id="R3z9QuPG9tQTQMgL8lyn-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1;fontSize=14;" value="分离接地（错误方式）为何失败" vertex="1">
           <mxGeometry height="30" width="210" x="210" y="60" as="geometry" />
@@ -75,6 +75,19 @@
         </mxCell>
         <mxCell id="lN5bfOlgKet4OxSslyQI-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="接地点B&lt;br&gt;(机箱另一处)" vertex="1">
           <mxGeometry height="10" width="77.5" x="242.5" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="lN5bfOlgKet4OxSslyQI-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;地电位差V&lt;sub&gt;noise&lt;br&gt;&lt;/sub&gt;（电位不相等&lt;sub&gt;）&lt;/sub&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="10" width="78" x="160" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="lN5bfOlgKet4OxSslyQI-11" edge="1" parent="1" source="lN5bfOlgKet4OxSslyQI-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="R3z9QuPG9tQTQMgL8lyn-58">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="180" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lN5bfOlgKet4OxSslyQI-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="V&lt;sub&gt;noise&lt;/sub&gt;=I&lt;sub&gt;noise&lt;/sub&gt; x Z&lt;sub&gt;ground&lt;/sub&gt;" vertex="1">
+          <mxGeometry height="30" width="140" x="360" y="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
