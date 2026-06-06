@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="S_95sdlplf2zTk_VzfC1">
-    <mxGraphModel dx="286" dy="174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="276" dy="168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -187,6 +187,15 @@
         </mxCell>
         <mxCell id="lN5bfOlgKet4OxSslyQI-55" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;editableCssRules=.*;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBzdHlsZT0iYmFja2dyb3VuZDogdHJhbnNwYXJlbnQ7IGJhY2tncm91bmQtY29sb3I6IHRyYW5zcGFyZW50OyIgdmVyc2lvbj0iMS4xIiB3aWR0aD0iODMiIGhlaWdodD0iOTguMDAwMDAwMjM4NDE4NTgiIHZpZXdCb3g9IjAgLTIuMzg0MTg1NzkxMDE1NjI1ZS03IDgzIDk4LjAwMDAwMDIzODQxODU4Ij48ZGVmcy8+PGc+PGcgZGF0YS1jZWxsLWlkPSIwIj48ZyBkYXRhLWNlbGwtaWQ9IjEiPjxnIGRhdGEtY2VsbC1pZD0iVFpXbGpoN3hJSlBMOWhVaXp6b0EtMSIvPjxnIGRhdGEtY2VsbC1pZD0iUjN6OVF1UEc5dFFUUU1nTDhseW4tMTQiLz48ZyBkYXRhLWNlbGwtaWQ9IlIzejlRdVBHOXRRVFFNZ0w4bHluLTE4Ii8+PGcgZGF0YS1jZWxsLWlkPSJSM3o5UXVQRzl0UVRRTWdMOGx5bi0xOSIvPjxnIGRhdGEtY2VsbC1pZD0iUjN6OVF1UEc5dFFUUU1nTDhseW4tMTYiLz48ZyBkYXRhLWNlbGwtaWQ9IlIzejlRdVBHOXRRVFFNZ0w4bHluLTMyIi8+PGcgZGF0YS1jZWxsLWlkPSJSM3o5UXVQRzl0UVRRTWdMOGx5bi0zMyIvPjxnIGRhdGEtY2VsbC1pZD0iUjN6OVF1UEc5dFFUUU1nTDhseW4tMTciLz48ZyBkYXRhLWNlbGwtaWQ9IlIzejlRdVBHOXRRVFFNZ0w4bHluLTIxIi8+PGcgZGF0YS1jZWxsLWlkPSJSM3o5UXVQRzl0UVRRTWdMOGx5bi0yNCIvPjxnIGRhdGEtY2VsbC1pZD0iUjN6OVF1UEc5dFFUUU1nTDhseW4tMjUiLz48ZyBkYXRhLWNlbGwtaWQ9IlIzejlRdVBHOXRRVFFNZ0w4bHluLTI4Ii8+PGcgZGF0YS1jZWxsLWlkPSJSM3o5UXVQRzl0UVRRTWdMOGx5bi0yNiIvPjxnIGRhdGEtY2VsbC1pZD0iUjN6OVF1UEc5dFFUUU1nTDhseW4tMjkiLz48ZyBkYXRhLWNlbGwtaWQ9IlIzejlRdVBHOXRRVFFNZ0w4bHluLTUwIj48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjUsMC41KSI+PHBhdGggZD0iTSAxMSAzMSBMIDcxIDMxIiBmaWxsPSJub25lIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiB0cmFuc2Zvcm09InJvdGF0ZSg5MCw0MSwzMSkiIHBvaW50ZXItZXZlbnRzPSJhbGwiIHN0eWxlPSJzdHJva2U6IGxpZ2h0LWRhcmsocmdiKDAsIDAsIDApLCByZ2IoMjM3LCAyMzcsIDIzNykpOyIvPjwvZz48L2c+PGcgZGF0YS1jZWxsLWlkPSJSM3o5UXVQRzl0UVRRTWdMOGx5bi01MSI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC41LDAuNSkiPjxwYXRoIGQ9Ik0gMSA2MSBMIDgxIDYxIiBmaWxsPSJub25lIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBwb2ludGVyLWV2ZW50cz0iYWxsIiBzdHlsZT0ic3Ryb2tlOiBsaWdodC1kYXJrKHJnYigwLCAwLCAwKSwgcmdiKDIzNywgMjM3LCAyMzcpKTsiLz48L2c+PC9nPjxnIGRhdGEtY2VsbC1pZD0iUjN6OVF1UEc5dFFUUU1nTDhseW4tNTIiPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAuNSwwLjUpIj48cGF0aCBkPSJNIDE3IDc2IEwgNjUgNzYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwMDAwMCIgc3Ryb2tlLXdpZHRoPSIzIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHBvaW50ZXItZXZlbnRzPSJhbGwiIHN0eWxlPSJzdHJva2U6IGxpZ2h0LWRhcmsocmdiKDAsIDAsIDApLCByZ2IoMjM3LCAyMzcsIDIzNykpOyIvPjwvZz48L2c+PGcgZGF0YS1jZWxsLWlkPSJSM3o5UXVQRzl0UVRRTWdMOGx5bi01MyI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC41LDAuNSkiPjxwYXRoIGQ9Ik0gMzMgOTEgTCA0OSA5MSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjMiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgcG9pbnRlci1ldmVudHM9ImFsbCIgc3R5bGU9InN0cm9rZTogbGlnaHQtZGFyayhyZ2IoMCwgMCwgMCksIHJnYigyMzcsIDIzNywgMjM3KSk7Ii8+PC9nPjwvZz48L2c+PC9nPjwvZz48L3N2Zz4=;direction=west;" value="" vertex="1">
           <mxGeometry height="29" width="24.56" x="140.39" y="273" as="geometry" />
+        </mxCell>
+        <mxCell id="lN5bfOlgKet4OxSslyQI-60" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="40" width="58.82" x="50" y="330" as="geometry" />
+        </mxCell>
+        <mxCell id="lN5bfOlgKet4OxSslyQI-58" parent="lN5bfOlgKet4OxSslyQI-60" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;strokeColor=#004C99;" value="" vertex="1">
+          <mxGeometry height="40" width="29.410000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="lN5bfOlgKet4OxSslyQI-59" parent="lN5bfOlgKet4OxSslyQI-60" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;strokeColor=#004C99;" value="" vertex="1">
+          <mxGeometry height="40" width="29.410000000000004" x="29.410000000000004" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
