@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="S_95sdlplf2zTk_VzfC1">
-    <mxGraphModel dx="276" dy="168" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="572" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -98,7 +98,7 @@
             <mxPoint x="190" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lN5bfOlgKet4OxSslyQI-16" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.operational_amp_1;flipV=1;" value="" vertex="1">
+        <mxCell id="lN5bfOlgKet4OxSslyQI-16" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.abstract.operational_amp_1;flipV=1;fillColor=#D0D0D0;" value="" vertex="1">
           <mxGeometry height="60" width="65.33" x="184.67" y="316.67" as="geometry" />
         </mxCell>
         <mxCell id="lN5bfOlgKet4OxSslyQI-23" edge="1" parent="1" source="lN5bfOlgKet4OxSslyQI-17" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;">
@@ -189,13 +189,40 @@
           <mxGeometry height="29" width="24.56" x="140.39" y="273" as="geometry" />
         </mxCell>
         <mxCell id="lN5bfOlgKet4OxSslyQI-60" connectable="0" parent="1" style="group" value="" vertex="1">
-          <mxGeometry height="40" width="58.82" x="50" y="330" as="geometry" />
+          <mxGeometry height="40" width="60" x="50" y="330" as="geometry" />
         </mxCell>
         <mxCell id="lN5bfOlgKet4OxSslyQI-58" parent="lN5bfOlgKet4OxSslyQI-60" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;strokeColor=#004C99;" value="" vertex="1">
           <mxGeometry height="40" width="29.410000000000004" as="geometry" />
         </mxCell>
         <mxCell id="lN5bfOlgKet4OxSslyQI-59" parent="lN5bfOlgKet4OxSslyQI-60" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;strokeColor=#004C99;" value="" vertex="1">
           <mxGeometry height="40" width="29.410000000000004" x="29.410000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="lN5bfOlgKet4OxSslyQI-63" connectable="0" parent="lN5bfOlgKet4OxSslyQI-60" style="group" value="" vertex="1">
+          <mxGeometry height="20" width="60" y="4" as="geometry" />
+        </mxCell>
+        <mxCell id="lN5bfOlgKet4OxSslyQI-61" parent="lN5bfOlgKet4OxSslyQI-63" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;strokeColor=#CC0000;" value="" vertex="1">
+          <mxGeometry height="20.000000000000004" width="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lN5bfOlgKet4OxSslyQI-62" parent="lN5bfOlgKet4OxSslyQI-63" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.waveforms.sine_wave;strokeColor=#CC0000;" value="" vertex="1">
+          <mxGeometry height="20.000000000000004" width="30" x="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lN5bfOlgKet4OxSslyQI-64" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontColor=#CC0000;" value="差模噪声注入" vertex="1">
+          <mxGeometry height="10" width="85" x="50" y="400.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lN5bfOlgKet4OxSslyQI-65" edge="1" parent="1" source="lN5bfOlgKet4OxSslyQI-64" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.04;exitY=0.237;exitDx=0;exitDy=0;curved=1;entryX=-0.093;entryY=0.508;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" target="lN5bfOlgKet4OxSslyQI-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="30" y="380" />
+            </Array>
+            <mxPoint x="49.46" y="406.34" as="sourcePoint" />
+            <mxPoint x="40" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lN5bfOlgKet4OxSslyQI-66" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="差分接收器无法抑制" vertex="1">
+          <mxGeometry height="10" width="135.33" x="213.57999999999998" y="400.5" as="geometry" />
+        </mxCell>
+        <mxCell id="lN5bfOlgKet4OxSslyQI-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="差模噪声注入" vertex="1">
+          <mxGeometry height="10" width="135.33" x="209.99999999999997" y="273" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
