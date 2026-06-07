@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="S_95sdlplf2zTk_VzfC1">
-    <mxGraphModel dx="334" dy="203" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="572" dy="348" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -224,8 +224,23 @@
         <mxCell id="lN5bfOlgKet4OxSslyQI-67" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="差模噪声注入" vertex="1">
           <mxGeometry height="10" width="135.33" x="209.99999999999997" y="273" as="geometry" />
         </mxCell>
-        <mxCell id="lN5bfOlgKet4OxSslyQI-72" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;position2=0.5;base=20;size=30;position=0.33;direction=south;" value="" vertex="1">
-          <mxGeometry height="80" width="150" x="160" y="470" as="geometry" />
+        <mxCell id="WRRJB3F_XfQ98y-43JXC-7" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="53" width="88" x="252" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="WRRJB3F_XfQ98y-43JXC-4" parent="WRRJB3F_XfQ98y-43JXC-7" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;" value="" vertex="1">
+          <mxGeometry height="53" width="75.42857142857143" x="12.571428571428571" as="geometry" />
+        </mxCell>
+        <mxCell id="WRRJB3F_XfQ98y-43JXC-5" parent="WRRJB3F_XfQ98y-43JXC-7" style="triangle;whiteSpace=wrap;html=1;direction=west;" value="" vertex="1">
+          <mxGeometry height="6.625" width="12.571428571428571" y="23.1875" as="geometry" />
+        </mxCell>
+        <mxCell id="WRRJB3F_XfQ98y-43JXC-12" connectable="0" parent="WRRJB3F_XfQ98y-43JXC-7" style="group" value="" vertex="1">
+          <mxGeometry height="53" width="88" as="geometry" />
+        </mxCell>
+        <mxCell id="WRRJB3F_XfQ98y-43JXC-13" parent="WRRJB3F_XfQ98y-43JXC-12" style="rounded=1;whiteSpace=wrap;html=1;arcSize=6;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="53" width="75.42857142857143" x="12.571428571428571" as="geometry" />
+        </mxCell>
+        <mxCell id="WRRJB3F_XfQ98y-43JXC-14" parent="WRRJB3F_XfQ98y-43JXC-12" style="triangle;whiteSpace=wrap;html=1;direction=west;strokeColor=none;" value="" vertex="1">
+          <mxGeometry height="6.625" width="12.571428571428571" y="23.1875" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
