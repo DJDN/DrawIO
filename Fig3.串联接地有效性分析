@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="S_95sdlplf2zTk_VzfC1">
-    <mxGraphModel dx="728" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1413" dy="859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -557,6 +557,11 @@
             <mxPoint x="537.3399999999999" y="356.67" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OgS5fauBwygslQh1QtRQ-1" edge="1" parent="1" source="WRRJB3F_XfQ98y-43JXC-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;dashPattern=8 8;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="558.2222222222222" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="WRRJB3F_XfQ98y-43JXC-106" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1;fontSize=14;" value="CMRR原理" vertex="1">
           <mxGeometry height="30" width="86" x="515.34" y="245" as="geometry" />
         </mxCell>
@@ -763,6 +768,9 @@
           <mxGeometry height="20" width="118" x="295" as="geometry">
             <mxRectangle height="20" width="118" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OgS5fauBwygslQh1QtRQ-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fontStyle=1;fontSize=14;" value="&lt;font style=&quot;font-size: 26px;&quot;&gt;串联接地有效性分析：共模 VS 差模噪声&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="579.41" x="240.64" y="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
