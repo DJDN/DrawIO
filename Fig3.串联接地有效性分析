@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="S_95sdlplf2zTk_VzfC1">
-    <mxGraphModel dx="1601" dy="973" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="728" dy="442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -329,32 +329,11 @@
         <mxCell id="WRRJB3F_XfQ98y-43JXC-44" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;editableCssRules=.*;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBzdHlsZT0iYmFja2dyb3VuZDogdHJhbnNwYXJlbnQ7IGJhY2tncm91bmQtY29sb3I6IHRyYW5zcGFyZW50OyIgdmVyc2lvbj0iMS4xIiB3aWR0aD0iODMiIGhlaWdodD0iOTguMDAwMDAwMjM4NDE4NTgiIHZpZXdCb3g9IjAgLTIuMzg0MTg1NzkxMDE1NjI1ZS03IDgzIDk4LjAwMDAwMDIzODQxODU4Ij48ZGVmcy8+PGc+PGcgZGF0YS1jZWxsLWlkPSIwIj48ZyBkYXRhLWNlbGwtaWQ9IjEiPjxnIGRhdGEtY2VsbC1pZD0iVFpXbGpoN3hJSlBMOWhVaXp6b0EtMSIvPjxnIGRhdGEtY2VsbC1pZD0iUjN6OVF1UEc5dFFUUU1nTDhseW4tMTQiLz48ZyBkYXRhLWNlbGwtaWQ9IlIzejlRdVBHOXRRVFFNZ0w4bHluLTE4Ii8+PGcgZGF0YS1jZWxsLWlkPSJSM3o5UXVQRzl0UVRRTWdMOGx5bi0xOSIvPjxnIGRhdGEtY2VsbC1pZD0iUjN6OVF1UEc5dFFUUU1nTDhseW4tMTYiLz48ZyBkYXRhLWNlbGwtaWQ9IlIzejlRdVBHOXRRVFFNZ0w4bHluLTMyIi8+PGcgZGF0YS1jZWxsLWlkPSJSM3o5UXVQRzl0UVRRTWdMOGx5bi0zMyIvPjxnIGRhdGEtY2VsbC1pZD0iUjN6OVF1UEc5dFFUUU1nTDhseW4tMTciLz48ZyBkYXRhLWNlbGwtaWQ9IlIzejlRdVBHOXRRVFFNZ0w4bHluLTIxIi8+PGcgZGF0YS1jZWxsLWlkPSJSM3o5UXVQRzl0UVRRTWdMOGx5bi0yNCIvPjxnIGRhdGEtY2VsbC1pZD0iUjN6OVF1UEc5dFFUUU1nTDhseW4tMjUiLz48ZyBkYXRhLWNlbGwtaWQ9IlIzejlRdVBHOXRRVFFNZ0w4bHluLTI4Ii8+PGcgZGF0YS1jZWxsLWlkPSJSM3o5UXVQRzl0UVRRTWdMOGx5bi0yNiIvPjxnIGRhdGEtY2VsbC1pZD0iUjN6OVF1UEc5dFFUUU1nTDhseW4tMjkiLz48ZyBkYXRhLWNlbGwtaWQ9IlIzejlRdVBHOXRRVFFNZ0w4bHluLTUwIj48ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgwLjUsMC41KSI+PHBhdGggZD0iTSAxMSAzMSBMIDcxIDMxIiBmaWxsPSJub25lIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiB0cmFuc2Zvcm09InJvdGF0ZSg5MCw0MSwzMSkiIHBvaW50ZXItZXZlbnRzPSJhbGwiIHN0eWxlPSJzdHJva2U6IGxpZ2h0LWRhcmsocmdiKDAsIDAsIDApLCByZ2IoMjM3LCAyMzcsIDIzNykpOyIvPjwvZz48L2c+PGcgZGF0YS1jZWxsLWlkPSJSM3o5UXVQRzl0UVRRTWdMOGx5bi01MSI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC41LDAuNSkiPjxwYXRoIGQ9Ik0gMSA2MSBMIDgxIDYxIiBmaWxsPSJub25lIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iMyIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBwb2ludGVyLWV2ZW50cz0iYWxsIiBzdHlsZT0ic3Ryb2tlOiBsaWdodC1kYXJrKHJnYigwLCAwLCAwKSwgcmdiKDIzNywgMjM3LCAyMzcpKTsiLz48L2c+PC9nPjxnIGRhdGEtY2VsbC1pZD0iUjN6OVF1UEc5dFFUUU1nTDhseW4tNTIiPjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAuNSwwLjUpIj48cGF0aCBkPSJNIDE3IDc2IEwgNjUgNzYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwMDAwMCIgc3Ryb2tlLXdpZHRoPSIzIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHBvaW50ZXItZXZlbnRzPSJhbGwiIHN0eWxlPSJzdHJva2U6IGxpZ2h0LWRhcmsocmdiKDAsIDAsIDApLCByZ2IoMjM3LCAyMzcsIDIzNykpOyIvPjwvZz48L2c+PGcgZGF0YS1jZWxsLWlkPSJSM3o5UXVQRzl0UVRRTWdMOGx5bi01MyI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC41LDAuNSkiPjxwYXRoIGQ9Ik0gMzMgOTEgTCA0OSA5MSIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjMiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgcG9pbnRlci1ldmVudHM9ImFsbCIgc3R5bGU9InN0cm9rZTogbGlnaHQtZGFyayhyZ2IoMCwgMCwgMCksIHJnYigyMzcsIDIzNywgMjM3KSk7Ii8+PC9nPjwvZz48L2c+PC9nPjwvZz48L3N2Zz4=;" value="" vertex="1">
           <mxGeometry height="40" width="33.88" x="797.06" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="WRRJB3F_XfQ98y-43JXC-45" edge="1" parent="1" source="WRRJB3F_XfQ98y-43JXC-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="WRRJB3F_XfQ98y-43JXC-44">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WRRJB3F_XfQ98y-43JXC-46" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.inductors.inductor_3;" value="" vertex="1">
-          <mxGeometry height="4" width="40" x="734" y="176" as="geometry" />
-        </mxCell>
-        <mxCell id="WRRJB3F_XfQ98y-43JXC-47" edge="1" parent="1" source="WRRJB3F_XfQ98y-43JXC-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="WRRJB3F_XfQ98y-43JXC-43">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WRRJB3F_XfQ98y-43JXC-48" parent="1" style="pointerEvents=1;verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;shape=mxgraph.electrical.resistors.resistor_1;" value="" vertex="1">
-          <mxGeometry height="10" width="45" x="684" y="175" as="geometry" />
-        </mxCell>
-        <mxCell id="WRRJB3F_XfQ98y-43JXC-49" edge="1" parent="1" source="WRRJB3F_XfQ98y-43JXC-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="WRRJB3F_XfQ98y-43JXC-46">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WRRJB3F_XfQ98y-43JXC-50" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font&gt;Z&lt;sub&gt;ground&lt;/sub&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="10" width="50" x="713" y="160" as="geometry" />
-        </mxCell>
         <mxCell id="WRRJB3F_XfQ98y-43JXC-51" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="接地点A&lt;br&gt;(机箱某处)" vertex="1">
           <mxGeometry height="10" width="65" x="616.5" y="210" as="geometry" />
         </mxCell>
         <mxCell id="WRRJB3F_XfQ98y-43JXC-52" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="接地点B&lt;br&gt;(机箱另一处)" vertex="1">
           <mxGeometry height="10" width="77.5" x="781.5" y="210" as="geometry" />
-        </mxCell>
-        <mxCell id="WRRJB3F_XfQ98y-43JXC-53" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;地电位差V&lt;sub&gt;noise&lt;br&gt;&lt;/sub&gt;（电位不相等&lt;sub&gt;）&lt;/sub&gt;&lt;/span&gt;" vertex="1">
-          <mxGeometry height="10" width="78" x="699" y="210" as="geometry" />
         </mxCell>
         <mxCell id="WRRJB3F_XfQ98y-43JXC-54" edge="1" parent="1" source="WRRJB3F_XfQ98y-43JXC-55" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=1;" target="WRRJB3F_XfQ98y-43JXC-44">
           <mxGeometry relative="1" as="geometry">
