@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="PrCjhPmBln_r-k4qiOoz">
-    <mxGraphModel dx="2002" dy="1217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2402" dy="1460" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -374,6 +374,9 @@
         </mxCell>
         <mxCell id="lbl_footer" parent="1" style="text;html=1;align=center;fontStyle=1;fontSize=13;fontColor=#000000;" value="单电机磁环：14 个（①×1 + ②×1 + ③×2 + ④×1 + ⑤×1 + ⑥×4 + ⑦×4） 。 双电机 × 2 = 28 个，加电源端 3 个 = 系统共 31 个。" vertex="1">
           <mxGeometry height="30" width="1120" x="20" y="765" as="geometry" />
+        </mxCell>
+        <mxCell id="j__SiQ1ahFjsbxdSYDSt-12" parent="1" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;editableCssRules=.*;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBjbGFzcz0iaWNvbiIgdmlld0JveD0iLTAuMDAwMDYxMDM1MTU2MjUgMCAxMDI0LjA2ODg0NzY1NjI1IDEwMjQiIHZlcnNpb249IjEuMSIgd2lkdGg9IjIwMC4wMTM0NDY4MDc4NjEzMyIgaGVpZ2h0PSIyMDAiPjxwYXRoIGQ9Ik0xMC4yNzQzMDQgODUzLjMzMzMzM0w0NDcuMTgwOTcxIDk1LjU3MzMzM2MyOS4wMTMzMzMtNDkuNDkzMzMzIDEwMC42OTMzMzMtNDkuNDkzMzMzIDEyOS43MDY2NjYgMEwxMDEzLjc5NDMwNCA4NTMuMzMzMzMzYzI5LjAxMzMzMyA0OS40OTMzMzMtNi44MjY2NjcgMTEyLjY0LTY0Ljg1MzMzMyAxMTIuNjRINzUuMTI3NjM3QzE3LjEwMDk3MSA5NjUuOTczMzMzLTE4LjczOTAyOSA5MDIuODI2NjY3IDEwLjI3NDMwNCA4NTMuMzMzMzMzeiIgZmlsbD0iI0ZGRjUwMCIvPjxwYXRoIGQ9Ik00NC40MDc2MzcgODUzLjMzMzMzM0w0NjcuNjYwOTcxIDExOS40NjY2NjdjMTguNzczMzMzLTM0LjEzMzMzMyA2OC4yNjY2NjctMzQuMTMzMzMzIDg3LjA0IDBsNDIzLjI1MzMzMyA3MzMuODY2NjY2YzE4Ljc3MzMzMyAzNC4xMzMzMzMtNS4xMiA3NS4wOTMzMzMtNDQuMzczMzMzIDc1LjA5MzMzNEg4OC43ODA5NzFjLTM5LjI1MzMzMyAwLTYzLjE0NjY2Ny00MC45Ni00NC4zNzMzMzQtNzUuMDkzMzM0eiIvPjxwYXRoIGQ9Ik0xMTQuMzgwOTcxIDg1Ni43NDY2NjdMNTEyLjAzNDMwNCAxNjcuMjUzMzMzbDM5Ny42NTMzMzMgNjg5LjQ5MzMzNHoiIGZpbGw9IiNGRkY1MDAiLz48cGF0aCBkPSJNNDgzLjAyMDk3MSA2MzMuMTczMzMzYzUuMTIgMTUuMzYgMTUuMzYgMjMuODkzMzMzIDI5LjAxMzMzMyAyMy44OTMzMzRzMjMuODkzMzMzLTEwLjI0IDI5LjAxMzMzMy0yMy44OTMzMzRsMjAuNDgtMjY5LjY1MzMzM2MwLTI5LjAxMzMzMy0yMy44OTMzMzMtNDkuNDkzMzMzLTQ5LjQ5MzMzMy00OS40OTMzMzMtMjkuMDEzMzMzIDAtNDkuNDkzMzMzIDIzLjg5MzMzMy00OS40OTMzMzMgNTQuNjEzMzMzbDIwLjQ4IDI2NC41MzMzMzN6IG0yOS4wMTMzMzMgNzMuMzg2NjY3Yy0yOS4wMTMzMzMgMC00OS40OTMzMzMgMjAuNDgtNDkuNDkzMzMzIDQ5LjQ5MzMzM3MyMC40OCA0OS40OTMzMzMgNDkuNDkzMzMzIDQ5LjQ5MzMzNCA0OS40OTMzMzMtMjAuNDggNDkuNDkzMzMzLTQ5LjQ5MzMzNC0yMC40OC00OS40OTMzMzMtNDkuNDkzMzMzLTQ5LjQ5MzMzM3oiLz48L3N2Zz4=;" value="" vertex="1">
+          <mxGeometry height="50" width="50" x="1260" y="440" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
