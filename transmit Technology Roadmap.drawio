@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="第 1 页" id="u1JicAHNL51bQPXuMPCt">
+    <mxGraphModel dx="1868" dy="1246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="title" parent="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#000000;" value="&lt;b style=&quot;font-size: 22px; font-family: Arial, Helvetica, sans-serif;&quot;&gt;Simulation Workflow of Antenna Structural-Thermal Analysis&lt;/b&gt;" vertex="1">
+          <mxGeometry height="50" width="600" x="113" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="node1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;arcSize=12;fontColor=#000000;" value="&lt;table width=&quot;100%&quot; height=&quot;100%&quot; border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;td width=&quot;15%&quot; align=&quot;center&quot; valign=&quot;middle&quot; style=&quot;font-size:26px;&quot;&gt;📡&lt;/td&gt;&lt;td width=&quot;85%&quot; align=&quot;center&quot; valign=&quot;middle&quot; style=&quot;font-size:16px; font-family: Arial, sans-serif;&quot;&gt;&lt;b&gt;1. Geometric Model&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" vertex="1">
+          <mxGeometry height="65" width="400" x="213.5" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="node2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;arcSize=12;fontColor=#000000;" value="&lt;table width=&quot;100%&quot; height=&quot;100%&quot; border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;td width=&quot;15%&quot; align=&quot;center&quot; valign=&quot;middle&quot; style=&quot;font-size:26px;&quot;&gt;▦&lt;/td&gt;&lt;td width=&quot;85%&quot; align=&quot;center&quot; valign=&quot;middle&quot; style=&quot;font-size:16px; font-family: Arial, sans-serif;&quot;&gt;&lt;b&gt;2. FE Mesh Generation&lt;/b&gt;&lt;br/&gt;&lt;span style=&quot;font-size:14px; font-weight:normal;&quot;&gt;(150k elements, shell &amp;amp; solid mixed)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" vertex="1">
+          <mxGeometry height="65" width="400" x="213.5" y="210" as="geometry" />
+        </mxCell>
+        <mxCell id="node3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;arcSize=12;fontColor=#000000;" value="&lt;table width=&quot;100%&quot; height=&quot;100%&quot; border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;td width=&quot;15%&quot; align=&quot;center&quot; valign=&quot;middle&quot; style=&quot;font-size:26px;&quot;&gt;⧉&lt;/td&gt;&lt;td width=&quot;85%&quot; align=&quot;center&quot; valign=&quot;middle&quot; style=&quot;font-size:16px; font-family: Arial, sans-serif;&quot;&gt;&lt;b&gt;3. Material Assignment&lt;/b&gt;&lt;br/&gt;&lt;span style=&quot;font-size:14px; font-weight:normal;&quot;&gt;(Aluminum &amp;amp; Invar)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" vertex="1">
+          <mxGeometry height="65" width="400" x="213.5" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="node4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;arcSize=12;fontColor=#000000;" value="&lt;table width=&quot;100%&quot; height=&quot;100%&quot; border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;td width=&quot;15%&quot; align=&quot;center&quot; valign=&quot;middle&quot; style=&quot;font-size:26px;&quot;&gt;∿&lt;/td&gt;&lt;td width=&quot;85%&quot; align=&quot;center&quot; valign=&quot;middle&quot; style=&quot;font-size:16px; font-family: Arial, sans-serif;&quot;&gt;&lt;b&gt;4. Modal Analysis&lt;/b&gt;&lt;br/&gt;&lt;span style=&quot;font-size:14px; font-weight:normal;&quot;&gt;(f1 = 120 Hz)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" vertex="1">
+          <mxGeometry height="65" width="400" x="213.5" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="node5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;arcSize=12;fontColor=#000000;" value="&lt;table width=&quot;100%&quot; height=&quot;100%&quot; border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;td width=&quot;15%&quot; align=&quot;center&quot; valign=&quot;middle&quot; style=&quot;font-size:26px;&quot;&gt;〰&lt;/td&gt;&lt;td width=&quot;85%&quot; align=&quot;center&quot; valign=&quot;middle&quot; style=&quot;font-size:16px; font-family: Arial, sans-serif;&quot;&gt;&lt;b&gt;5. Sine &amp;amp; Random Vibration Analysis&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" vertex="1">
+          <mxGeometry height="65" width="400" x="213.5" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="node6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;arcSize=12;fontColor=#000000;" value="&lt;table width=&quot;100%&quot; height=&quot;100%&quot; border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;td width=&quot;15%&quot; align=&quot;center&quot; valign=&quot;middle&quot; style=&quot;font-size:26px;&quot;&gt;🌡&lt;/td&gt;&lt;td width=&quot;85%&quot; align=&quot;center&quot; valign=&quot;middle&quot; style=&quot;font-size:16px; font-family: Arial, sans-serif;&quot;&gt;&lt;b&gt;6. Orbital Thermal Analysis: Temperature Field&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" vertex="1">
+          <mxGeometry height="65" width="400" x="213.5" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="node7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;arcSize=12;fontColor=#000000;" value="&lt;table width=&quot;100%&quot; height=&quot;100%&quot; border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;td width=&quot;15%&quot; align=&quot;center&quot; valign=&quot;middle&quot; style=&quot;font-size:26px;&quot;&gt;▱&lt;/td&gt;&lt;td width=&quot;85%&quot; align=&quot;center&quot; valign=&quot;middle&quot; style=&quot;font-size:16px; font-family: Arial, sans-serif;&quot;&gt;&lt;b&gt;7. Thermal Deformation Analysis&lt;/b&gt;&lt;br/&gt;&lt;span style=&quot;font-size:14px; font-weight:normal;&quot;&gt;(RMS &amp;lt; 0.15 mm)&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" vertex="1">
+          <mxGeometry height="65" width="400" x="213.5" y="710" as="geometry" />
+        </mxCell>
+        <mxCell id="node8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#000000;strokeWidth=1.5;arcSize=12;fontColor=#000000;" value="&lt;table width=&quot;100%&quot; height=&quot;100%&quot; border=&quot;0&quot; cellpadding=&quot;0&quot; cellspacing=&quot;0&quot;&gt;&lt;tr&gt;&lt;td width=&quot;15%&quot; align=&quot;center&quot; valign=&quot;middle&quot; style=&quot;font-size:26px;&quot;&gt;☑&lt;/td&gt;&lt;td width=&quot;85%&quot; align=&quot;center&quot; valign=&quot;middle&quot; style=&quot;font-size:16px; font-family: Arial, sans-serif;&quot;&gt;&lt;b&gt;8. Result Evaluation &amp;amp; Design Validation&lt;/b&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;" vertex="1">
+          <mxGeometry height="65" width="400" x="213.5" y="810" as="geometry" />
+        </mxCell>
+        <mxCell id="edge1" edge="1" parent="1" source="node1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;strokeColor=#000000;strokeWidth=1.5;" target="node2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge2" edge="1" parent="1" source="node2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;strokeColor=#000000;strokeWidth=1.5;" target="node3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge3" edge="1" parent="1" source="node3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;strokeColor=#000000;strokeWidth=1.5;" target="node4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge4" edge="1" parent="1" source="node4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;strokeColor=#000000;strokeWidth=1.5;" target="node5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge5" edge="1" parent="1" source="node5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;strokeColor=#000000;strokeWidth=1.5;" target="node6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge6" edge="1" parent="1" source="node6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;strokeColor=#000000;strokeWidth=1.5;" target="node7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="edge7" edge="1" parent="1" source="node7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=0;strokeColor=#000000;strokeWidth=1.5;" target="node8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
